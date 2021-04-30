@@ -1,5 +1,5 @@
 # Stage-Awalee-2021
 
 ## Première implémentation du modèle 
-### Pricing des swaptions par Monte Carlo
-### Calcul des volatilités implicites
+ 1.Pricing des swaptions par Monte Carlo
+ 2.Calcul des volatilités implicites
