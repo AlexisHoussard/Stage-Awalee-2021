@@ -1,6 +1,14 @@
 # Stage-Awalee-2021
 
 ## Première implémentation du modèle 
- 1.Pricing des swaptions par Monte Carlo
+ 1.Pricing des swaptions par Monte Carlo et schéma d'Euler
  
  2.Calcul des volatilités implicites
+ 
+ 3.Pricing des swaptions par approximation gaussienne 
+ 
+ ## Alea simulation
+ 
+ 1. Generation des trajectoire aléatoires
+ 
+ 2. Problème posé par le schéma d'Euler
