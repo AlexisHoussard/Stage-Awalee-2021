@@ -11,4 +11,4 @@
  ## Alea simulation
  1. Generation des trajectoire aléatoires
  
- 2. Problème posé par le schéma d'Euler
+ 2. Bornitude de la diffusion x et  problème posé par le schéma d'Euler
