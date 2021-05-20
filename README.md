@@ -1,4 +1,5 @@
 # Stage-Awalee-2021
+## Journal de bord
 
 ## Première implémentation du modèle 
  1.Pricing des swaptions par Monte Carlo et schéma d'Euler
@@ -8,7 +9,6 @@
  3.Pricing des swaptions par approximation gaussienne 
  
  ## Alea simulation
- 
  1. Generation des trajectoire aléatoires
  
  2. Problème posé par le schéma d'Euler
