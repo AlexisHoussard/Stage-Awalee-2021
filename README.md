@@ -1,7 +1,7 @@
 # Stage-Awalee-2021
 ## Journal de bord
 
-## Première implémentation du modèle 
+## Modèle v 1
  1.Pricing des swaptions par Monte Carlo et schéma d'Euler
  
  2.Calcul des volatilités implicites
